@@ -40,5 +40,4 @@ This project focuses on the classification of mushrooms into poisonous or edible
 
 This project demonstrates the process of exploring, preparing, and modeling mushroom data for classification tasks. It provides insights into feature importance, model performance, and steps involved in building a predictive model.
 
-## Conclusion
-This project demonstrates the process of exploring, preparing, and modeling mushroom data for classification tasks. It provides insights into feature importance, model performance, and steps involved in building a predictive model.
+
